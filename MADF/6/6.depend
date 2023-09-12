@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650345490 source:/home/softcomputing/Desktop/MADF/6/main.c
+	<stdio.h>
+	<stdlib.h>
+

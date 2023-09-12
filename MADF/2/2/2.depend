@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640171028 source:/home/cglab2/Desktop/Raghuram/MADF/25/2/main.c
+	<stdio.h>
+	<stdlib.h>
+
